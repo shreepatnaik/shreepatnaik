@@ -1,6 +1,6 @@
 # Hi, I'm Shree
 
-AI engineer with 2 years building production AI systems, backed by 2 years of graduate ML research at Purdue.
+AI engineer with 2 years building production AI systems, backed by 2 years of graduate ML research at Purdue University.
 
 I build AI on top of messy enterprise data, mostly SAP supply-chain systems. My rule: code computes the numbers, the LLM only explains them.
 
